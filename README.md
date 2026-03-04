@@ -1,6 +1,7 @@
 # Bangalore Home Price Prediction 🏠
 
 This project is a full-stack Machine Learning application that predicts real estate prices in Bangalore. It features a modern web UI, a Python Flask backend, and a Linear Regression model trained on real-world data.
+This model uses historical data. While the current market has seen massive appreciation since then, this project was a fantastic deep dive into building an end-to-end ML pipeline.
 
 
 ---
